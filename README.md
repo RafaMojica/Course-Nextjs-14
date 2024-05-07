@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://vercel.com/">
-    <img src="https://img.shields.io/badge/Create by-Vercel-fff?" alt="Page Vercel" />
+    <img src="https://img.shields.io/badge/Course created by-Vercel-fff?" alt="Page Vercel" />
   </a> 
   <a href="https://nextjs.org/learn?utm_source=next-site&utm_medium=homepage-cta&utm_campaign=home">
     <img src="https://img.shields.io/badge/Website-Learn.Nextjs14-fff?" alt="Learn Next.js" />
