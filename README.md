@@ -16,7 +16,7 @@
 </div>
 
 <div align="center" marginInline="10px">
-  <h2> 🤓 Curso Next.js 14 🤓</h3>
+  <h2> 🤓 Course Next.js 14 🤓</h3>
 </div>
    
 ###
